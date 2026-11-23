@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+table {
+  border-collapse: collapse;
+  background-color: #ffffff;
+}
+
+caption {
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+td.nhan {
+  width: 150px;
+  font-weight: bold;
+  background-color: #f4f4f4;
+}
+
+input[type="text"],
+input[type="password"],
+select {
+  width: 95%;
+  padding: 5px;
+  box-sizing: border-box;
+}
+
+.nut-bam {
+  text-align: center;
+  padding: 10px;
+}
+
+button {
+  padding: 6px 16px;
+  margin: 0 5px;
+  cursor: pointer;
+}
